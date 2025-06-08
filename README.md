@@ -13,7 +13,6 @@
 - [Database Setup](#database-setup)
 - [Testing](#testing)
 - [Security & Best Practices](#security--best-practices)
-- [Code Comments Style](#code-comments-style)
 - [Future Roadmap](#future-roadmap)
 - [License & Copyright](#license--copyright)
 
