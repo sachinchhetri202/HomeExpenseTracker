@@ -292,4 +292,4 @@ This project is proprietary software developed by Sachin Chhetri. Unauthorized c
 
 ---
 
-**Built with ❤️ by Sachin Chhetri** | [Portfolio](https://sachinkhetri.dev) | [LinkedIn](https://linkedin.com/in/sachinkhetri)
+**Built with ❤️ by Sachin Chhetri** | [Portfolio](https://sachinpc202.netlify.app)
