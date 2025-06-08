@@ -252,18 +252,6 @@ This script tests:
 - **Secure headers** for production deployment
 - **Content Security Policy** ready for implementation
 
-## Code Comments Style
-
-All code comments in this project are written in first-person by Sachin Chhetri:
-
-```typescript
-// I implemented this function to handle user authentication
-// This middleware validates JWT tokens and protects routes
-// I created this component to display expense metrics
-```
-
-This personal style reflects my direct involvement in architecting and implementing each feature, making the codebase more maintainable and ownership clear.
-
 ## Future Roadmap
 
 ### Phase 1: Core Functionality (Next 2-4 weeks)
