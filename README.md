@@ -1,4 +1,5 @@
 # Home Expense Tracker
+![Screenshot 2025-06-08 at 3 42 50 PM](https://github.com/user-attachments/assets/8bf6648d-9d6d-44fc-b50d-3d9bc7d117a2)
 
 **Smart expense tracking for modern households** - A full-stack web application built with Next.js that helps individuals and households track, split, and analyze their expenses with real-time collaboration and intelligent insights.
 
